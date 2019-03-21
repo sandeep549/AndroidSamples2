@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView Sample</string>
+    <string name="text_position_clicked">Clicked Country Position = %d</string>
+</resources>
